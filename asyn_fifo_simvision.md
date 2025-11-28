@@ -24,5 +24,8 @@
 10. select the variables and run
 <img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/29da5145-6554-4dc9-9351-593b44f1fa04" />
 
-for reference:  
+11. to zoom out on the entire waveform click on the = symbol in right corner as shown
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/dc74c1f2-fa48-43ef-9b0c-f9b00f8db57c" />
+
+## for reference:  
 [https://www.youtube.com/watch?v=NHQT_rd8inY]
