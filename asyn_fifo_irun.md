@@ -1,4 +1,4 @@
-tool: incisive
+# tool: cadence incisive
 ## commands:
 1. ll
 2. cd Desktop
